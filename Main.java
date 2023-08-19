@@ -52,6 +52,8 @@ public class Main {
                     System.out.println(sunday + ": " + sunday.eee());
                     System.out.println();
                     break;
+                     default:
+                    System.out.println("Введите то что указано снизу!");
             }
 
 
